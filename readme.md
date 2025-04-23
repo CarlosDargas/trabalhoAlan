@@ -25,13 +25,13 @@ Está atividade que desenvolvi está falando sobre "Oque é o Chat GPT", "Porque
 - GitHub = No GitHub, o código é o conjunto de instruções que é armazenado, compartilhado e editado por meio de repositórios. 
 Todos estes contribuiram para que eu desenvolvece o meu aprendizado.
 
-- <h1> há <h6> = Adiciona titulos na pagina.
+- h1h6 = Adiciona titulos na pagina.
 
-- <p> = Adiciona textos na pagina.
+- p = Adiciona textos na pagina.
  
-- <img> = Adiciona imagem na pagina.
+- img = Adiciona imagem na pagina.
 
-- <span> = Serve para estilizar e manipular partes específicas de um texto, sem quebrar a linha.
+- span = Serve para estilizar e manipular partes específicas de um texto, sem quebrar a linha.
 
 ## Lista das tecnologias utilizadas (HTML, CSS inline, Git e GitHub).
 
